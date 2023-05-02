@@ -5,3 +5,4 @@
 * [Creating a Workspace](creating-a-workspace.md)
 * [Navigating an Enoki Workspace](navigating-an-enoki-workspace.md)
 * [SSH Into Local Machine on Enoki](ssh-into-local-machine-on-enoki.md)
+* [SSH Into Cloud  Machine on Enoki](ssh-into-cloud-machine-on-enoki.md)
